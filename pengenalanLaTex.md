@@ -34,7 +34,7 @@ This is an % stupid
 example: supercall
 ~~~
 
-:: luaran dari data diatas disini ::
+:: luaran(*output*) dari data diatas disini ::
 
 ### Struktur Berkas Masukan (Input File Structure)
 
